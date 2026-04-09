@@ -44,5 +44,4 @@ Suggested Review Order
 3.	streamlit app
 4.	 notebooks
 5.	CSV supporting files
-Note
-These supporting files are submitted to provide full project backup and documentation of the analytical workflow used in the capstone project.
+
