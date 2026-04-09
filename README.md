@@ -38,10 +38,5 @@ The following files are Python-based project working files and were used to perf
 •	data_cleaning.ipynb
 •	feature_engineering.ipynb
 •	files inside the streamlit app folder
-Suggested Review Order
-1.	Final Report
-2.	Dashboard.pbix
-3.	streamlit app
-4.	 notebooks
-5.	CSV supporting files
+
 
